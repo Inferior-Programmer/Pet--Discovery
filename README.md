@@ -8,6 +8,7 @@ WE AIM TO:
 
 To run the application natively please first 
 run the command 
+
 npm i
 
 then run the command
